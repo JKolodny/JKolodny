@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JKolodny
+- 👋 Hi, I’m Josh
 - 👀 I’m interested in Text Analysis, Sports Analytics, and Game Development
 - 🌱 I’m currently learning a little bit about Godot, and interested in learning about web app development for data-related projects/dashboards
 
